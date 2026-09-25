@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/postmark",
   "title": "Postmark",
   "description": "Postmark MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/postmark",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-postmark",

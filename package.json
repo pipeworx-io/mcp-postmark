@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-postmark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Postmark MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-62a9d620f14ae181843d6d9ebd9d48b99748e8563af0db64be63c256aae1ef40",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
