@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-postmark",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Postmark MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "postmark",
     "gatewaySlug": "postmark",
-    "sourceHash": "v1-0af5b9cfd29d362b39c4a048501ab236aec83af86ff4cffa3e5a5c04771f7402",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-f0fccfd6f88b3bb7044e5f299bed7c94812a8e5f30d3154f91406ccbc0092f14",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
